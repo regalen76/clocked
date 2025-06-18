@@ -5,6 +5,10 @@ import { defineConfig } from 'vite';
 
 export default defineConfig({
 	plugins: [tailwindcss(), sveltekit()],
+	preview: {
+		port: 4173,
+		host: '0.0.0.0'
+	},
 	test: {
 		workspace: [
 			{
