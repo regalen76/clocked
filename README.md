@@ -144,14 +144,6 @@ src/
 └── app.html            # App template
 ```
 
-## API Endpoints
-
-- `POST /api/clock-in` - Start work session
-- `POST /api/clock-out` - End work session
-- `GET /api/timesheet` - Retrieve timesheet data
-- `GET /api/export/excel` - Generate Excel export
-- `GET /api/export/pdf` - Generate PDF export
-
 ## Contributing
 
 1. Fork the repository
