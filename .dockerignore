@@ -3,3 +3,15 @@ Dockerfile
 node_modules
 npm-debug.log
 .git
+.gitignore
+.gitattributes
+README.md
+.npmrc
+.prettierrc
+.eslintrc.cjs
+.graphqlrc
+.editorconfig
+.svelte-kit
+.vscode
+build
+package
